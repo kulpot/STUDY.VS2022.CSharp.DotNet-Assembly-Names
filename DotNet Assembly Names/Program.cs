@@ -37,6 +37,48 @@ C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names>dir
                3 File(s)          2,773 bytes
                5 Dir(s)  489,948,942,336 bytes free
 
+C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names>csc Program.cs
+Microsoft (R) Visual C# Compiler version 4.7.0-3.23416.8 (43b0b05c)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names>dir
+ Volume in drive C has no label.
+ Volume Serial Number is DAE4-938D
+
+ Directory of C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names
+
+25/09/2023  05:49 am    <DIR>          .
+25/09/2023  05:49 am    <DIR>          ..
+25/09/2023  05:45 am               189 App.config
+25/09/2023  05:45 am    <DIR>          bin
+25/09/2023  05:46 am             2,392 DotNet Assembly Names.csproj
+25/09/2023  05:45 am    <DIR>          obj
+25/09/2023  05:48 am             1,600 Program.cs
+25/09/2023  05:49 am             4,096 Program.exe
+25/09/2023  05:45 am    <DIR>          Properties
+               4 File(s)          8,277 bytes
+               5 Dir(s)  489,950,490,624 bytes free
+
+C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names>dir
+ Volume in drive C has no label.
+ Volume Serial Number is DAE4-938D
+
+ Directory of C:\Users\sunny\source\repos\DotNet Assembly Names\DotNet Assembly Names
+
+25/09/2023  05:50 am    <DIR>          .
+25/09/2023  05:50 am    <DIR>          ..
+25/09/2023  05:45 am               189 App.config
+25/09/2023  05:45 am    <DIR>          bin
+25/09/2023  05:46 am             2,392 DotNet Assembly Names.csproj
+25/09/2023  05:45 am    <DIR>          obj
+25/09/2023  05:49 am             2,607 Program.cs
+25/09/2023  05:50 am             3,584 Program.dll
+25/09/2023  05:49 am             4,096 Program.exe
+25/09/2023  05:45 am    <DIR>          Properties
+               5 File(s)         12,868 bytes
+               5 Dir(s)  489,949,200,384 bytes free
+
 
 
  * 
